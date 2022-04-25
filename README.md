@@ -1,3 +1,18 @@
+# To-Do List 
+
+
+<img width="1424" alt="Screen Shot 2022-04-25 at 2 49 46 PM" src="https://user-images.githubusercontent.com/102008028/165154603-d0356d33-e690-4c24-bb53-579ee195e36a.png">
+
+## Languages Used 
+
+This was created using HTML5, CSS3, and JavaScript.
+
+## Lessons Learned 
+
+I really enjoyed creating this to-do list that I actually utilize to keep track of my current projects. The hardest part was figuring out how to write the function to cross-out the items that were completed. 
+
+## Assignment Guidelines Below 
+
 # ✅ Week05 Bootcamp2019 Project: Todo List
 
 ### Goal: Build a Simple Todo List
